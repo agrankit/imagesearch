@@ -1,0 +1,3 @@
+# Module imageshare
+# RPC service class, partial path of RPC policy file
+com.ank.imgshare.app.client.GreetingService, BC31B8C268FD89EC7700F90AC1A87D72.gwt.rpc

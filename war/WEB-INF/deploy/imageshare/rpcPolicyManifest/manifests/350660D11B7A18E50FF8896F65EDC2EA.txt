@@ -1,0 +1,2 @@
+serviceClass: com.ank.imgshare.app.client.GreetingService
+path: BC31B8C268FD89EC7700F90AC1A87D72.gwt.rpc
